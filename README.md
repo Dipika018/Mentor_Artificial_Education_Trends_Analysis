@@ -1,3 +1,61 @@
+# Mentor Artificial - Education Trends Analysis
+
+## Team Name:
+**Mentor Artificial**
+
+## Project Title:
+**Education Trends Analysis**
+
+## Description:
+This project analyzes global education trends using Python, focusing on literacy rates, enrollment rates, and education spending. It involves:
+- Collecting data from reliable sources like the World Bank, UNESCO, or self-created datasets.
+- Cleaning and preprocessing the data (handling missing values, format conversion).
+- Performing statistical analysis using libraries like pandas and numpy.
+- Visualizing trends, correlations, and regional comparisons using matplotlib.
+  
+The insights gained help to understand the evolving global education landscape and its influencing factors.
+
+## Group Members:
+- Dipika Gurjar (KU2407U397)  
+- Jeeya Thakrar (KU2407U409)  
+- Dhriti Soni (KU2407U396)  
+- Malaviya Riya (KU2407U423)  
+
+---
+
+## Objective:
+- Analyze global education trends in literacy rates, enrollment rates, and education spending.
+- Visualize relationships and trends to provide insights into the education sector globally.
+
+---
+
+## Tools and Libraries Used:
+- **Python:** Programming language for data analysis and visualization.
+- **pandas:** For data cleaning, manipulation, and analysis.
+- **numpy:** For numerical operations and statistical calculations.
+- **matplotlib:** For creating various visualizations (line plots, scatter plots, bar charts).
+- **tabulate:** For formatting data into readable tables for console output.
+
+---
+
+## Data Source(s):
+1. **Kaggle:** Offers education-related datasets (e.g., literacy rates, enrollment statistics, education spending).  
+   [Visit Kaggle](https://www.kaggle.com/datasets)  
+2. **World Health Organization (WHO):** Provides health-related education data.  
+   [Visit WHO](https://www.who.int/data)  
+3. **World Bank Education Statistics:** Global data on education indicators like literacy, enrollment, and spending.  
+   [Visit World Bank](https://data.worldbank.org/topic/education)  
+4. **Self-created Dataset:** Tailored dataset created for the project.
+
+---
+
+## Execution Steps:
+
+### 1. Install Required Libraries:
+   ```bash
+   pip install pandas numpy matplotlib tabulate
+
+
 # Mentor_Artificial_Education_Trends_Analysis
 ## Team Name : Mentor Artificial
 ## Topic : Education Trends Analysis
