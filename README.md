@@ -77,10 +77,10 @@ The analysis of the education dataset revealed important insights about global e
  -	**Key Visualizations:** Bar charts, line graphs, and scatter plots were used to visualize the data, revealing regional differences, trends in spending, and the relationship between literacy and enrollment rates.
 
 ## Challenges Faced
-### - **Data Quality:**  Missing values in critical columns like Literacy Rate, Enrollment Rate, and Education Spending (% of GDP) required handling through imputation or removal.
-### - **Limited Time-Series Data:** Insufficient data across multiple years limited the ability to analyze trends meaningfully over time.
-### - **Correlation Analysis:
+- **Data Quality:**  Missing values in critical columns like Literacy Rate, Enrollment Rate, and Education Spending (% of GDP) required handling through imputation or removal.
+- **Limited Time-Series Data:** Insufficient data across multiple years limited the ability to analyze trends meaningfully over time.
+- **Correlation Analysis:
  --	Understanding and interpreting the correlation between literacy rate and enrollment rate required statistical validation.
-### - **Data Visualization:**	Selecting appropriate visualizations and ensuring they were meaningful given the dataset's limitations.
-### - **Data Cleaning:**	Ensuring the dataset was free from anomalies and ready for analysis while retaining key insights.
-### - **Technical Implementation:**	Debugging Python code for reading, processing, and visualizing data efficiently.
+- **Data Visualization:**	Selecting appropriate visualizations and ensuring they were meaningful given the dataset's limitations.
+- **Data Cleaning:**	Ensuring the dataset was free from anomalies and ready for analysis while retaining key insights.
+- **Technical Implementation:**	Debugging Python code for reading, processing, and visualizing data efficiently.
