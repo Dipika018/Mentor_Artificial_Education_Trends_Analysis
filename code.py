@@ -14,7 +14,6 @@ pd.set_option('display.max_columns', None)  # Show all columns
 print(tabulate(data, headers='keys', tablefmt='pretty', showindex=False))
 print(data.head())
 
-
 # Check for missing values
 print("\nMissing Values Summary:")
 print(data.isnull().sum())
@@ -48,6 +47,7 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 
+'''
 # 4.2 Line chart for Education Spending Trends
 plt.figure(figsize=(10, 6))
 spending_trends.plot(color='green')
@@ -57,6 +57,7 @@ plt.xlabel('Year')
 plt.grid()
 plt.tight_layout()
 plt.show()
+'''
 
 # 4.3 Scatter plot: Literacy vs Enrollment Rate
 plt.figure(figsize=(8, 6))
