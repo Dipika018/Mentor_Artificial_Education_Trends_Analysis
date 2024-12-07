@@ -47,27 +47,27 @@ This project analyzes global education trends using Python, focusing on literacy
 ## Execution Steps:
 
 ### 1. **Install Required Libraries:**
-    -Install necessary Python libraries such as pandas, numpy, matplotlib, and tabulate.
+    - Install necessary Python libraries such as pandas, numpy, matplotlib, and tabulate.
 
 ### 2. **Data Collection:**
-   -Download datasets from sources like Kaggle, World Bank, or Data.gov.
-   -Ensure the data is in CSV or Excel format for easy processing.
+   - Download datasets from sources like Kaggle, World Bank, or Data.gov.
+   - Ensure the data is in CSV or Excel format for easy processing.
 
 ### 3. **Data Import:**
-   -Load the dataset into a pandas DataFrame for analysis.
+   - Load the dataset into a pandas DataFrame for analysis.
 ### 4. **Explore and Clean the Data:**
-   -Display the dataset using tabulate for better readability.
-   -Print the first few rows to understand the structure.
-   -Check for missing values and handle them:
-       --Fill missing values in Literacy Rate and Enrollment Rate with the column mean.
+   - Display the dataset using tabulate for better readability.
+   - Print the first few rows to understand the structure.
+   - Check for missing values and handle them:
+       - Fill missing values in Literacy Rate and Enrollment Rate with the column mean.
 ### 5. **Data Analysis:**
-   -Average Literacy Rate by Region using groupby().
-   -Education Spending Trends over the years.
-   -Correlation between Literacy Rate and Enrollment Rate.
+   - Average Literacy Rate by Region using groupby().
+   - Education Spending Trends over the years.
+   - Correlation between Literacy Rate and Enrollment Rate.
 ### 6. **Data Visualization:**
-   -Create visualizations using matplotlib:
-       --Bar chart for Literacy Rate by Region.
-       --Scatter plot for Literacy Rate vs Enrollment Rate.
+   - Create visualizations using matplotlib:
+       - Bar chart for Literacy Rate by Region.
+       - Scatter plot for Literacy Rate vs Enrollment Rate.
 
 ## Summary of Results
 The analysis of the education dataset revealed important insights about global education trends. After cleaning the data by filling missing values for literacy and enrollment rates and dropping rows with missing education spending data, we proceeded with the analysis.
@@ -77,15 +77,10 @@ The analysis of the education dataset revealed important insights about global e
  -	**Key Visualizations:** Bar charts, line graphs, and scatter plots were used to visualize the data, revealing regional differences, trends in spending, and the relationship between literacy and enrollment rates.
 
 ## Challenges Faced
-###- Data Quality:
- --	Missing values in critical columns like Literacy Rate, Enrollment Rate, and Education Spending (% of GDP) required handling through imputation or removal.
-###- Limited Time-Series Data:
- --	Insufficient data across multiple years limited the ability to analyze trends meaningfully over time.
-###- Correlation Analysis:
+### - **Data Quality:**  Missing values in critical columns like Literacy Rate, Enrollment Rate, and Education Spending (% of GDP) required handling through imputation or removal.
+### - **Limited Time-Series Data:** Insufficient data across multiple years limited the ability to analyze trends meaningfully over time.
+### - **Correlation Analysis:
  --	Understanding and interpreting the correlation between literacy rate and enrollment rate required statistical validation.
-###- Data Visualization:
- --	Selecting appropriate visualizations and ensuring they were meaningful given the dataset's limitations.
-###- Data Cleaning:
- --	Ensuring the dataset was free from anomalies and ready for analysis while retaining key insights.
-###- Technical Implementation:
- --	Debugging Python code for reading, processing, and visualizing data efficiently.
+### - **Data Visualization:**	Selecting appropriate visualizations and ensuring they were meaningful given the dataset's limitations.
+### - **Data Cleaning:**	Ensuring the dataset was free from anomalies and ready for analysis while retaining key insights.
+### - **Technical Implementation:**	Debugging Python code for reading, processing, and visualizing data efficiently.
