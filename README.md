@@ -35,7 +35,9 @@ This project uses Python to analyze global education trends, focusing on literac
 
 ## Data Source(s)
 • Dataset Name: Education_data(1).csv
+
 • Size: 10 records
+
 • Fields: Country,	Year,	Literacy Rate,	Enrollment Rate,	Education Spending (% of GDP),	Region.
 
 ---
