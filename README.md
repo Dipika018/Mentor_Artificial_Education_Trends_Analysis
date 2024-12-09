@@ -12,15 +12,15 @@ Study trends in literacy rates, enrolment, and education spending globally.
 The insights gained help to understand the evolving global education landscape and its influencing factors.
 
 ## Group Members:
-- Dipika Gurjar (KU2407U397)  
-- Jeeya Thakrar (KU2407U409)  
-- Dhriti Soni (KU2407U396)  
-- Malaviya Riya (KU2407U423)  
+- Dipika Gurjar - [KU2407U397]  
+- Jeeya Thakrar - [KU2407U409]
+- Dhriti Soni - [KU2407U396]
+- Malaviya Riya - [KU2407U423]  
 
 ---
 
 ## Objective:
-This project analyzes global education trends using Python, focusing on literacy rates, enrollment rates, and education spending. It involves collecting data from reliable sources like the World Bank or UNESCO, cleaning and preprocessing the data (handling missing values, converting formats), and performing statistical analysis using pandas and numpy. Visualization is done with matplotlib to display trends over time, correlations, and comparisons between regions. Key visualizations include line plots for literacy rates, scatter plots for spending vs. literacy, and bar plots for regional comparisons. This project provides insights into the evolving education landscape and its influencing factors.
+This project uses Python to analyze global education trends, focusing on literacy rates, enrollment, and education spending. Data from reliable sources like UNESCO is cleaned and analyzed with pandas and numpy, while matplotlib visualizes trends, correlations, and regional comparisons. It provides insights into how education evolves and the factors driving change.
 
 ---
 
@@ -33,14 +33,10 @@ This project analyzes global education trends using Python, focusing on literacy
 
 ---
 
-## Data Source(s):
-1. **Kaggle:** Offers education-related datasets (e.g., literacy rates, enrollment statistics, education spending).  
-   [Visit Kaggle](https://www.kaggle.com/datasets)  
-2. **World Health Organization (WHO):** Provides health-related education data.  
-   [Visit WHO](https://www.who.int/data)  
-3. **World Bank Education Statistics:** Global data on education indicators like literacy, enrollment, and spending.  
-   [Visit World Bank](https://data.worldbank.org/topic/education)  
-4. **Self-created Dataset:** Tailored dataset created for the project.
+## Data Source(s)
+• Dataset Name: Education_data(1).csv
+• Size: 10 records
+• Fields: Country,	Year,	Literacy Rate,	Enrollment Rate,	Education Spending (% of GDP),	Region.
 
 ---
 
