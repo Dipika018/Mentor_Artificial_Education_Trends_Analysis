@@ -81,3 +81,12 @@ The analysis of the education dataset revealed important insights about global e
 - **Data Visualization:**	Selecting appropriate visualizations and ensuring they were meaningful given the dataset's limitations.
 - **Data Cleaning:**	Ensuring the dataset was free from anomalies and ready for analysis while retaining key insights.
 - **Technical Implementation:**	Debugging Python code for reading, processing, and visualizing data efficiently.
+
+
+## Credits
+
+-Malaviya Riya for making the dataset with help of search engines (kaggle, WHO, etc).
+
+-Jeeya Thakrar and Dhriti Soni for working on the code giving such exceptional python program putting efforts for a great output.
+
+-Dipika Gurjar for handling the documents and making a fine overall organization and professionalism of the repository consisting of Data , Visuals , Assets and Output report.
