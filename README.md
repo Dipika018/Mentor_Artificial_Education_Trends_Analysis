@@ -85,8 +85,8 @@ The analysis of the education dataset revealed important insights about global e
 
 ## Credits
 
--Malaviya Riya for making the dataset with help of search engines (kaggle, WHO, etc).
+- Malaviya Riya for making the dataset with help of search engines (kaggle, WHO, etc).
 
--Jeeya Thakrar and Dhriti Soni for working on the code giving such exceptional python program putting efforts for a great output.
+- Jeeya Thakrar and Dhriti Soni for working on the code giving such exceptional python program putting efforts for a great output.
 
--Dipika Gurjar for handling the documents and making a fine overall organization and professionalism of the repository consisting of Data , Visuals , Assets and Output report.
+- Dipika Gurjar for handling the documents and making a fine overall organization and professionalism of the repository consisting of Data , Visuals , Assets and Output report.
